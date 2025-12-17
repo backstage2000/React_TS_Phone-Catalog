@@ -12,11 +12,11 @@
 
 # UI/UX
 
-- React Router (v6.25.1) - Navigation
-- swiper (V12.0.2") - Image galleries
-- React-Toastify (V11.0.5) - Popup alerts and confirmations
-- SweetAlert2 - (v11.26.3) - Popup alerts
-- i18n (react-i18next V25.6.3) — Internationalization and multi-language support
+- **React Router** `v6.25.1` — `Navigation`
+- **Swiper** `v12.0.2` — `Image galleries`
+- **React-Toastify** `v11.0.5` — `Popup alerts and notifications`
+- **SweetAlert2** `v11.26.3` — `Popup alerts and confirmations`
+- **i18n (react-i18next)** `v25.6.3` — `Internationalization and` multi-language support
 
 # Developmnet & Deployment
 
