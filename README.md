@@ -73,7 +73,6 @@ Working on this project allowed me to strengthen my **hard skills** in front-end
 
 This project helped me **apply theory in practice**, strengthen problem-solving skills, and improve my ability to build maintainable, interactive, and performant front-end applications.
 
-
 ## Installation and Usage
 
 ### Requirements

@@ -26,12 +26,15 @@ export const Footer = () => {
                     </Link>
                   </li>
                   <li>
-                    <Link className={style.link} to={'.'}>
+                    <Link
+                      className={style.link}
+                      to={'https://t.me/Anatoliyy00'}
+                    >
                       {t('page.Contacts')}
                     </Link>
                   </li>
                   <li>
-                    <Link className={style.link} to=".">
+                    <Link className={style.link} to="https://t.me/Anatoliyy00">
                       {t('page.rights')}
                     </Link>
                   </li>
