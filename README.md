@@ -74,4 +74,47 @@ Working on this project allowed me to strengthen my **hard skills** in front-end
 This project helped me **apply theory in practice**, strengthen problem-solving skills, and improve my ability to build maintainable, interactive, and performant front-end applications.
 
 
+## Installation and Usage
 
+### Requirements
+
+Before you start, make sure you have the following installed:
+
+- **Node.js** (v16 or higher recommended)
+- **npm** or **yarn**
+
+### Installation
+
+Install project dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+### Running the Project
+
+Start the development server:
+
+```bash
+npm start
+# or
+yarn start
+```
+
+After starting, the application will be available at:
+
+```
+http://localhost:3000
+```
+
+### Build for Production
+
+To create a production build:
+
+```bash
+npm run build
+# or
+yarn build
+```
