@@ -3,25 +3,26 @@
 - [DEMO LINK](https://backstage2000.github.io/React_TS_Phone-Catalog/)
 - [FIGMA LINK](https://www.figma.com/design/BUusqCIMAWALqfBahnyIiH/Phone-catalog--V2--Original-Dark?node-id=0-1&p=f)
 
+
 # Core
 
-- TypeScript (V5.2.2) - Type safety
-- React (V18.3.1) - UI framework
-- SCSS (V7.0.3) - Styling
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a> &nbsp;&nbsp;&nbsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>&nbsp;&nbsp;&nbsp;<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a>
+</p>
 
 # UI/UX
 
-- React Router (v6.25.1) - Navigation
-- swiper (V12.0.2") - Image galleries
-- React-Toastify (V11.0.5) - Popup alerts and confirmations
-- SweetAlert2 - (v11.26.3) - Popup alerts
-- i18n (react-i18next V25.6.3) — Internationalization and multi-language support
+- **React Router** `v6.25.1` — `Navigation`
+- **Swiper** `v12.0.2` — `Image galleries`
+- **React-Toastify** `v11.0.5` — `Popup alerts and notifications`
+- **SweetAlert2** `v11.26.3` — `Popup alerts and confirmations`
+- **i18n (react-i18next)** `v25.6.3` — `Internationalization and` multi-language support
 
 # Developmnet & Deployment
 
-- Vite () - Build tool
-- EsLint () - Code quality
-- Netlify - Hosting and deployment
+
+- EsLint (V8.57.0) - Code quality
+
 
 ## Features
 
@@ -117,3 +118,8 @@ npm run build
 # or
 yarn build
 ```
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/backstage2000" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.x.com/AnatoliyKo00" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
+
