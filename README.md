@@ -20,7 +20,7 @@
 
 # Developmnet & Deployment
 
-- Vite (V5.3.1) - Build tool
+
 - EsLint (V8.57.0) - Code quality
 
 
