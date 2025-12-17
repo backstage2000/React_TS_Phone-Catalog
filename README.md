@@ -19,9 +19,9 @@
 
 # Developmnet & Deployment
 
-- Vite () - Build tool
-- EsLint () - Code quality
-- Netlify - Hosting and deployment
+- Vite (V5.3.1) - Build tool
+- EsLint (V8.57.0) - Code quality
+
 
 ## Features
 
